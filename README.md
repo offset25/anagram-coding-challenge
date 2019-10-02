@@ -17,7 +17,7 @@
 
 
 const groupByAnagrams = (listOfWords) => {
-  // The logic here is to group by anagrams 
+  // The logic here is to group by anagrams   
 }
 
 const arr = ['cats', 'idea', 'acts', 'agree', 'aide', 'cast', 'eager', 'bbcc', 'bc'];
