@@ -1,7 +1,8 @@
 # anagram-coding-challenge
 
 
-// Write a function that finds all anagrams within an array of words 
+// Write a function that finds all anagrams within an array of words
+
 // example: when giving this array as an argument to the function ['cats', 'idea', 'acts', 'agree', 'aide', 'cast', 'eager', 'bbcc', 'bc']
 // it should return array of anagrams like this
 // [
